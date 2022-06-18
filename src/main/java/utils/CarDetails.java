@@ -58,7 +58,7 @@ public class CarDetails {
                  carDetails.put("REGISTRATION",records[0]);
                  carDetails.put("MAKE",records[1]);
                  carDetails.put("MODEL",records[2]);
-                 carDetails.put("COLOR",records[3]);
+                 carDetails.put("COLOUR",records[3]);
                  carDetails.put("YEAR",records[4]);
                 break;
              }
